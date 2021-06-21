@@ -50,3 +50,7 @@ Link to Website: https://tloyzelle.github.io/Project-Marvel/
 - User controlled variable generation:
 
   ![Variable choice](./assets/images/readme/interactive2.png)
+
+This project uses: APIs, moment.js, local storage, DOM, event listeners, and JSON.
+
+If you have any questions:<a href="mailto:rebuiltrival@gmail.com" hspace="20">Email Ryan</a>
