@@ -1,5 +1,14 @@
 # 06_Proj 1 - APIs: Marvel Media (Explanation ReadMe)
 
+This site gives you a selection of the most popular Marvel characters to choose from and displays a list of movies to watch or comics to read. The picture and listings are pulled from multiple third-party APIs.
+
+The team consisted of:
+Ryan Crowder,
+Cameron Blake,
+Jose Paez,
+Julian Pedraza,
+& Taegan Loyzelle
+
 Link to Website: https://tloyzelle.github.io/Project-Marvel/
 
 1. 2 server-side APIs
